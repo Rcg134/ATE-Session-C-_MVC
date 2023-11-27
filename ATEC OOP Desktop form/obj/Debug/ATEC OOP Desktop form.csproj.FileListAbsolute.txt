@@ -1,0 +1,11 @@
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\bin\Debug\ATEC OOP Desktop form.exe.config
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\bin\Debug\ATEC OOP Desktop form.exe
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\bin\Debug\ATEC OOP Desktop form.pdb
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC OOP Desktop form.csproj.AssemblyReference.cache
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC OOP Desktop form.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC_OOP_Desktop_form.Form1.resources
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC_OOP_Desktop_form.Properties.Resources.resources
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC OOP Desktop form.csproj.GenerateResource.cache
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC OOP Desktop form.csproj.CoreCompileInputs.cache
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC OOP Desktop form.exe
+C:\Users\asus rog\Documents\GitHub\ATEC OOP Desktop form\obj\Debug\ATEC OOP Desktop form.pdb

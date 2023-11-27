@@ -1,0 +1,8 @@
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\bin\Debug\Activity_04-11-2023.exe.config
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\bin\Debug\Activity_04-11-2023.exe
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\bin\Debug\Activity_04-11-2023.pdb
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\obj\Debug\Activity_04-11-2023.csproj.AssemblyReference.cache
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\obj\Debug\Activity_04-11-2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\obj\Debug\Activity_04-11-2023.csproj.CoreCompileInputs.cache
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\obj\Debug\Activity_04-11-2023.exe
+C:\Users\asus rog\Documents\GitHub\Activity_04-11-2023\obj\Debug\Activity_04-11-2023.pdb
